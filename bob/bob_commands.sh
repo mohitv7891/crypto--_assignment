@@ -1,0 +1,3 @@
+./decrypt_message bob_private_key encrypted_data_file encrypted_key_file decrypted_data_file decrypted_signature_file
+./verify_signature decrypted_data_file decrypted_signature_file alice_public_key
+
